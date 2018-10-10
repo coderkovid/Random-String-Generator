@@ -15,4 +15,4 @@ random_str.string()
 
 You can use this code for both commercial and non-commercial purpose but please have a time to give credit to Kovid Raj Panthy or Coder Kovid. For more info and more codes email me at kovid@coderkovid.com
 
-[Contribution guidelines for this project](docs/CONTRIBUTING.md)
+
